@@ -1,0 +1,12 @@
+.btn {margin: 0 5px 0 0;}
+
+.page-header {margin: 20px 0 30px;}
+
+.todoForm {margin-bottom: 15px;}
+
+.actions {width: 208px;}
+
+.markedAsDone {
+    text-decoration: line-through;
+    color: #777;
+}
